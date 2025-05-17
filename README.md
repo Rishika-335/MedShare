@@ -30,5 +30,5 @@ MedShare is a peer-to-peer emergency medicine sharing platform designed for resi
 
 ## 💊User Design Flow 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e520d7d0-0050-42fa-a643-a7353806fc4d" width="800" />
+  <img src="https://github.com/user-attachments/assets/00fcde53-deb6-42c0-984d-c831012ee21a" width="800" />
 </p>
